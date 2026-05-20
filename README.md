@@ -37,6 +37,6 @@
 ### ⚙️ GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&custom_title=My%20GitHub%20Statistics" alt="GitHub Stats" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&custom_title=My%20Programming%20Languages" alt="Top Languages" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadkamalsaeed&show_icons=true&theme=tokyonight&custom_title=My%20GitHub%20Statistics" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadkamalsaeed&layout=compact&theme=tokyonight&custom_title=My%20Programming%20Languages" alt="Top Languages" height="195" />
 </p>
